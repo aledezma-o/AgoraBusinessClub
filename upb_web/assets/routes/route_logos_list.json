@@ -1,0 +1,41 @@
+{
+  "agreementsRoutesIcons":["assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png",
+    "assets/img/IsoLogo.png"],
+  "JCI-individual": [
+    {
+      "title": "JCI", "logo": "img/Convenciones_Logos/JCI/jci.jpg", "link": "https://www.jcicochabamba.org/"
+    }
+  ],
+  "JCI": [
+    {"title": "JCI CBBA","logo":"img/Convenciones_Logos/JCI/cbba.jpg","link": "https://www.jcicochabamba.org/"},
+    {"title": "JCI Femenino","logo":"img/Convenciones_Logos/JCI/femenino.jpg","link": "https://www.facebook.com/JCIFemeninoCochabamba/"},
+    {"title": "JCI Union","logo":"img/Convenciones_Logos/JCI/union.jpg","link": "https://www.jciunion.cc/"},
+    {"title": "JCI Tunari","logo":"img/Convenciones_Logos/JCI/tunari.jpg","link": "https://jcitunari.com/"}
+  ],
+  "UPB": [
+    {"title": "SEUPB CBBA","logo":"img/Convenciones_Logos/UPB/seupb2023.jpg","link": "https://www.instagram.com/seupb.2023/"}
+  ],
+  "CDN": [
+    {"title": "Centro de Desarrollo de Negocios","logo":"img/Convenciones_Logos/CDN/cdn.jpg","link": "https://www.upb.edu/es/contenido/centro-de-desarrollo-de-negocios"}
+  ],
+  "memberships": [
+    {"title": "Academy of International Business","logo":"assets/img/Convenciones_Logos/Membresias/Uni-Aib.png","link": "https://www.aib.world/"},
+    {"title": "BALAS","logo":"assets/img/Convenciones_Logos/Membresias/Uni-Balas.png","link": "https://balas.org/"},
+    {"title": "CLADEA","logo":"assets/img/Convenciones_Logos/Membresias/Uni-CLADEA.png","link": "https://cladea.org/en/home/"},
+    {"title": "INTERNATIONAL ASSOCIATION OF UNIVERSITY PRESIDENTS","logo":"assets/img/Convenciones_Logos/Membresias/Uni-IAUP.png","link": "https://www.iaup.org/"},
+    {"title": "ODAEE","logo":"assets/img/Convenciones_Logos/Membresias/Uni-ODAE.png","link": "https://www.odaee.com/"}
+  ],
+  "association": [
+    {"title": "The Association of MBAs (AMBA) Development Network ","logo":"assets/img/asociacion_logos/AMBA-member-logo.png","description": " es una comunidad de Escuelas de Negocios que trabajan para lograr la acreditación AMBA. ADN se esfuerza por apoyar a estas instituciones a través de revisiones de escritorio activas, tutoría e investigación."},
+    {"title": "Association to Advance Collegiate Schools of Business","logo":"assets/img/asociacion_logos/AACSB-Member-logo.jpg","description": " es una organización profesional estadounidense que brinda acreditación a las escuelas de negocios y más tarde se conoció como la Asociación Estadounidense de Escuelas Universitarias de Negocios y como la Asociación Internacional para la Educación Gerencial."},
+    {"title": "European Foundation for Management Development","logo":"assets/img/asociacion_logos/EFMD-member-logo.png","description": "es una asociación internacional sin ánimo de lucro con sede en Bruselas. La asociación de red más grande de Europa en el campo del desarrollo de la gestión, tiene más de 890 organizaciones miembros de la academia, los negocios, el servicio público y la consultoría en 88 países."},
+    {"title": "  College and university rankings  ","logo":"assets/img/asociacion_logos/QS-member-logo.png","description": "Los Rankings de Universidades Mundiales QS son una clasificación de las mejores universidades del mundo producida por Quacquarelli Symonds y publicada anualmente desde 2004. En 2022, clasificaron 1300 universidades."}
+  ]
+}

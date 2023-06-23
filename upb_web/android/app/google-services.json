@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591068045084",
+    "project_id": "upbweb-1c67d",
+    "storage_bucket": "upbweb-1c67d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591068045084:android:3a157ef589f4dbfb5164d9",
+        "android_client_info": {
+          "package_name": "com.example.upb_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591068045084-1id5u2ac1j2pqc8rii2hciavv1hqjqvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVxcUtbBInt1zg5YEmcZwIc0HnunFWUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591068045084-1id5u2ac1j2pqc8rii2hciavv1hqjqvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["https://upbweb-1c67d.web.app/#/", "http://localhost:8888","https://centro-de-desarrollo-upb.firebaseapp.com/#/"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
